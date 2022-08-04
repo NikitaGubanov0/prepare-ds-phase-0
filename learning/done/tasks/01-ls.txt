@@ -1,0 +1,7 @@
+ds-phase-0/learning/
+01-general
+02-python
+03-pandas
+04-charts
+done
+tasks
